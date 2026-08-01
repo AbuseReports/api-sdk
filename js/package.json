@@ -1,0 +1,9 @@
+{
+    "name": "abusereport-sdk",
+    "version": "1.0.0",
+    "description": "Single-file JavaScript SDK for the AbuseReport API",
+    "type": "module",
+    "main": "abusereport.js",
+    "exports": "./abusereport.js",
+    "license": "MIT"
+}
